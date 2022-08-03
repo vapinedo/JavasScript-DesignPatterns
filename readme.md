@@ -1,5 +1,4 @@
-# Design patterns applied on JavaScript
-## Patterns reviewed
+# Learning JavaScript Design Patterns 
 
-1. Factory
-2. Observer
+Patterns taken from book as same name, by Addy Osmani
+
